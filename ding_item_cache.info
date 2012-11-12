@@ -1,0 +1,5 @@
+name = "Ding item cache"
+decription = "Provides caching bin for ding items that contain extended information from external services."
+version = "7.x-1.0"
+core = "7.x"
+package = "Artesis"
