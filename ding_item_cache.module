@@ -51,9 +51,7 @@ function ding_item_cache_clear_form($form, &$form_state) {
 function ding_item_cache_clear_form_submit($form, &$form_state) {
   if (count($form_state['values']['ding_item_cache_modules'])) {
     foreach ($form_state['values']['ding_item_cache_modules'] as $module) {
-      db_delete('cache_ding_item')
-        ->condition('cid', "$module%", 'LIKE')
-        ->execute();
+      cache_clear_all($module, 'cache_ding_item', true);
     }
 
     drupal_set_message(t('Ding item cache has been cleared'));
