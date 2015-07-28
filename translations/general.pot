@@ -3,14 +3,14 @@
 # LANGUAGE translation of Drupal (general)
 # Copyright YEAR NAME <EMAIL@ADDRESS>
 # Generated from files:
-#  ding_item_cache.module: n/a
-#  ding_item_cache.info: n/a
+#  profiles/ding2/modules/ding_item_cache/ding_item_cache.module: n/a
+#  profiles/ding2/modules/ding_item_cache/ding_item_cache.info: n/a
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2015-02-19 16:14+0100\n"
+"POT-Creation-Date: 2015-07-28 11:17+0300\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -19,39 +19,39 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: ding_item_cache.module:34
+#: profiles/ding2/modules/ding_item_cache/ding_item_cache.module:34
 msgid "Modules"
 msgstr ""
 
-#: ding_item_cache.module:35
+#: profiles/ding2/modules/ding_item_cache/ding_item_cache.module:35
 msgid "Select those modules which cache has to be cleared"
 msgstr ""
 
-#: ding_item_cache.module:42
+#: profiles/ding2/modules/ding_item_cache/ding_item_cache.module:42
 msgid "Clear caches"
 msgstr ""
 
-#: ding_item_cache.module:57
+#: profiles/ding2/modules/ding_item_cache/ding_item_cache.module:57
 msgid "Ding item cache has been cleared"
 msgstr ""
 
-#: ding_item_cache.module:15
+#: profiles/ding2/modules/ding_item_cache/ding_item_cache.module:15
 msgid "Ding item cache"
 msgstr ""
 
-#: ding_item_cache.module:16
+#: profiles/ding2/modules/ding_item_cache/ding_item_cache.module:16
 msgid "Clear caches of certain modules relying on Ding item caching."
 msgstr ""
 
-#: ding_item_cache.info:0
+#: profiles/ding2/modules/ding_item_cache/ding_item_cache.info:0
 msgid "easyDDB Ding Item Cache"
 msgstr ""
 
-#: ding_item_cache.info:0
-msgid "Provides caching bin for ding items that contain extended information from external services."
+#: profiles/ding2/modules/ding_item_cache/ding_item_cache.info:0
+msgid "Provides caching bin for ding items that contain extended information \nfrom external services."
 msgstr ""
 
-#: ding_item_cache.info:0
+#: profiles/ding2/modules/ding_item_cache/ding_item_cache.info:0
 msgid "easyDDB"
 msgstr ""
 
