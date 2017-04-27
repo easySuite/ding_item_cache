@@ -3,5 +3,5 @@ description = "Provides caching bin for ding items that contain extended informa
 from external services."
 version = 7.x-2.2.0+easy
 core = 7.x
-package = easyDDB
+package = easyOPAC
 
